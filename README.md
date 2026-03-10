@@ -4,8 +4,8 @@
 
 **Designing resilient infrastructure · Automating everything · Bridging Dev and Ops**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirsolakk/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emirsolak003@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=P4nguen&style=flat-square&color=0e75b6)](https://github.com/P4nguen)
 
 </div>
